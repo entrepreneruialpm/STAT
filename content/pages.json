@@ -1,0 +1,444 @@
+[
+  {
+    "path": "/",
+    "title": "Save The Ash Tree Co. | Emerald Ash Borer Treatment",
+    "contentStatus": "paraphrased",
+    "sections": [
+      {
+        "type": "hero",
+        "heading": "Just Imagine Your Ash or Oak Tree Missing...",
+        "text": "Our founder lost an ash tree that shaded his front entrance to Emerald Ash Borer. Later he bought a Minneapolis home with an ash tree his kids play under. Save The Ash Tree Co. offers the best available protection. Request a quote for your ash or oak tree.",
+        "image": "https://static.wixstatic.com/media/e3f8ca_c4cc07b0d93a4422b898236c66364578~mv2.png",
+        "alt": "Ash tree viewed from below",
+        "buttons": [
+          { "label": "Do I have an ash?", "href": "/do-i-have-an-ash" },
+          { "label": "What is EAB?", "href": "/eab" },
+          { "label": "Our Solution", "href": "/injection-protection" },
+          { "label": "Contact Us", "href": "/about" }
+        ]
+      },
+      { "type": "h2", "text": "Do you have an ash or oak tree?" },
+      { "type": "p", "text": "Request an injection estimate for your tree." },
+      { "type": "buttons", "items": [
+        { "label": "Request an estimate", "href": "/about" }
+      ]},
+      { "type": "h2", "text": "Free EAB Townhall" },
+      { "type": "p", "text": "Join a free live webinar led by our founder, an ISA Certified Arborist. Topics include early signs of EAB, trunk injection as an alternative to removal, real treatment timelines, cost comparisons, and live Q&A. Space is limited." },
+      { "type": "buttons", "items": [
+        { "label": "Sign up for the townhall", "href": "/eab-townhalls" }
+      ]},
+      { "type": "h2", "text": "Our guarantees" },
+      { "type": "image", "src": "https://static.wixstatic.com/media/e3f8ca_08159686c69d405fa269b7c2acac722f~mv2.png", "alt": "Double Guarantee badge" },
+      { "type": "cards", "items": [
+        { "title": "Lowest Price Guarantee", "text": "We will match or beat an estimate for a comparable product that meets the same standards." },
+        { "title": "Money Back Guarantee", "text": "If a tree dies from EAB while under treatment, we refund 100% of that year's injection. This guarantee does not cover oak wilt." }
+      ]},
+      { "type": "p", "text": "Featured on the Tom Barnard podcast, July 16, 2025." }
+    ]
+  },
+  {
+    "path": "/eab-townhalls",
+    "title": "EAB Townhalls",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "EAB Townhalls" },
+      { "type": "p", "text": "Free live webinars led by our founder, an ISA Certified Arborist. Topics include early signs of EAB, trunk injection as an alternative to removal, real treatment timelines, cost comparisons, and live Q&A." },
+      { "type": "h2", "text": "Upcoming EAB Townhalls" },
+      { "type": "notice", "text": "No townhalls are scheduled right now. Sign up below and we will email you when the next one is set." },
+      { "type": "form", "form": "townhall" }
+    ]
+  },
+  {
+    "path": "/eab",
+    "title": "Emerald Ash Borer (EAB)",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Emerald Ash Borer" },
+      { "type": "image", "src": "https://static.wixstatic.com/media/e3f8ca_4ce0225b5ce64bc09dc56c38c1389c15~mv2.png", "alt": "Emerald Ash Borer" },
+      { "type": "p", "text": "The emerald ash borer is a beetle native to Asia. It arrived in Detroit, Michigan in 2002 and has spread since. Its larvae damage trees by disrupting the flow of water and nutrients. EAB is hard to spot until branches die. Look for D-shaped exit holes and woodpecker activity." },
+      { "type": "h2", "text": "How EAB spread" },
+      { "type": "p", "text": "EAB spread out from Detroit and was first found in Hennepin County in December 2017. The map below shows confirmed cases and quarantined counties. EAB is expected to keep spreading across the eastern United States." },
+      { "type": "image", "src": "https://static.wixstatic.com/media/e3f8ca_462d18a2172e4692856966599ee0a088~mv2.png", "alt": "Map of EAB confirmed and quarantined counties", "caption": "EAB confirmed and quarantined counties" },
+      { "type": "h2", "text": "Dead ash trees near you" },
+      { "type": "list", "items": [
+        "Dead branches with no leaves",
+        "Bark peeling in bare patches",
+        "Shoots growing from the base of the trunk"
+      ]},
+      { "type": "buttons", "items": [
+        { "label": "Is my tree infested?", "href": "/is-my-tree-affected" }
+      ]},
+      { "type": "h2", "text": "EAB inspection" },
+      { "type": "p", "text": "The Minnesota Department of Agriculture has an informational video. Diagnostic methods can damage a tree and are not required before treatment." }
+    ]
+  },
+  {
+    "path": "/do-i-have-an-ash",
+    "title": "Do I have an Ash?",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Do I have an Ash?" },
+      { "type": "p", "text": "Ash trees are often hard to recognize, and EAB threatens them. The three common ash varieties are White, Green, and Black. They share similar features, so check several of these traits." },
+      { "type": "h2", "text": "How to identify an ash tree" },
+      { "type": "list", "ordered": true, "items": [
+        "Leaves: compound, with 5 to 11 leaflets and serrated edges. Green ash leaves are lighter. White ash leaves are darker with larger leaflets.",
+        "Seeds (samaras): elongated, teardrop-shaped, in clusters. Not every tree has them.",
+        "Male flowers: feathery or pom-pom-like. Not every tree has them.",
+        "Male flowers, second type: pom-pom-like or elongated, and affected by a mite.",
+        "Bark: rough on older trees, smooth on younger ones."
+      ]},
+      { "type": "image", "src": "https://static.wixstatic.com/media/e3f8ca_c5f553da38264f239542e943871fc4b4~mv2.png", "alt": "Common ash leaves" },
+      { "type": "h2", "text": "Learn more" },
+      { "type": "list", "items": [
+        { "label": "Minnesota Department of Agriculture ash tree identification fact sheet", "href": "https://www.mda.state.mn.us/sites/default/files/inline-files/ashtreeid_0.pdf" },
+        { "label": "Arbor Day Foundation tree identification tool", "href": "https://www.arborday.org/trees/whatTree/" }
+      ]},
+      { "type": "p", "text": "Still not sure? Email a photo of your tree to info@savetheashtree.com and we will give you a free opinion." }
+    ]
+  },
+  {
+    "path": "/is-my-tree-affected",
+    "title": "Is My Tree Infested?",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Is My Tree Infested?" },
+      { "type": "p", "text": "EAB can infest a tree for years before you see damage. Infestations often start in the canopy and beneath the bark." },
+      { "type": "h2", "text": "Signs to watch for" },
+      { "type": "list", "items": [
+        "Visible damage: a thinning canopy is the first sign. A thinned tree may need removal the following year.",
+        "Late-stage signs: dead limbs, and bark that chips or peels.",
+        "Smaller trees die from fewer EAB than larger ones."
+      ]},
+      { "type": "image", "src": "https://static.wixstatic.com/media/e3f8ca_15bbe24e87a143cd87df76ad20301b6f~mv2.jpg", "alt": "Infested ash tree" },
+      { "type": "h2", "text": "Treatment" },
+      { "type": "p", "text": "We offer trunk injections with two years of protection. If a treated tree dies from EAB while under the program, we refund the injection cost." },
+      { "type": "h2", "text": "Free assessment" },
+      { "type": "p", "text": "Email a photo of your tree for a free opinion. Cost estimates need the trunk circumference, measured about 4.5 feet above the ground." },
+      { "type": "buttons", "items": [
+        { "label": "Request an estimate", "href": "/about" }
+      ]}
+    ]
+  },
+  {
+    "path": "/injection-protection",
+    "title": "Our Solution",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Our Solution" },
+      { "type": "image", "src": "https://static.wixstatic.com/media/e3f8ca_c4cc07b0d93a4422b898236c66364578~mv2.png", "alt": "Tree injection" },
+      { "type": "p", "text": "We design customer-centered solutions that are economical and simple." },
+      { "type": "h2", "text": "Guarantees" },
+      { "type": "list", "items": [
+        "Lowest-price guarantee: we match comparable estimates.",
+        "Money-back guarantee: if a tree that was in good condition at the start of treatment dies from EAB, we refund the full cost."
+      ]},
+      { "type": "h2", "text": "Protection" },
+      { "type": "p", "text": "Injections for ash and oak trees last two years. Each tree gets a tag showing its coverage period, and we contact you when treatment expires." },
+      { "type": "h2", "text": "Our chemistry" },
+      { "type": "p", "text": "We use emamectin benzoate. It has lasting residual effects, lasts up to four years, and has a smaller impact on beneficial insects." },
+      { "type": "h2", "text": "Oak wilt" },
+      { "type": "list", "items": [
+        "Red oaks are highly susceptible and cannot be saved once infected.",
+        "White oaks can be saved if treated early.",
+        "We use propiconazole, an antifungal, and recommend preventive treatment.",
+        "Do not prune oaks from mid-October through March, when they are dormant, to reduce spread."
+      ]},
+      { "type": "h2", "text": "Why injection" },
+      { "type": "p", "text": "Injection is the safest and most effective way to apply treatment compared with soil drenches and sprays, because it moves the treatment through the tree's circulatory system." },
+      { "type": "h2", "text": "Learn more" },
+      { "type": "list", "items": [
+        { "label": "Potential side effects of EAB insecticides (PDF)", "href": "https://www.savetheashtree.com/_files/ugd/e3f8ca_310bffc9cefc4820accdf358573ae37d.pdf" },
+        { "label": "University of Minnesota oak wilt bulletin", "href": "https://extension.umn.edu/plant-diseases/oak-wilt-minnesota" }
+      ]},
+      { "type": "buttons", "items": [
+        { "label": "Schedule an inspection", "href": "/about" }
+      ]}
+    ]
+  },
+  {
+    "path": "/prevention-vs-recovery",
+    "title": "Prevention vs. Recovery",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Prevention vs. Recovery" },
+      { "type": "p", "text": "Preventive treatment works better than recovery for ash trees threatened by EAB." },
+      { "type": "list", "items": [
+        "An infestation can go unnoticed for one to two years.",
+        "Decline can be sudden and irreversible.",
+        "Delayed treatment can cost more."
+      ]},
+      { "type": "h2", "text": "When to treat" },
+      { "type": "p", "text": "Inject ash trees before EAB damage begins, in early summer. Preventive treatment is the lower-cost option, and it keeps healthy trees healthy." },
+      { "type": "buttons", "items": [
+        { "label": "Do I have an ash?", "href": "/do-i-have-an-ash" },
+        { "label": "Request an estimate", "href": "/about" }
+      ]}
+    ]
+  },
+  {
+    "path": "/what-makes-us-different",
+    "title": "What Makes Us Different?",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "What Makes Us Different?" },
+      { "type": "h2", "text": "Customer experience" },
+      { "type": "list", "items": [
+        "Email support with a response within 24 hours.",
+        "On-site visits when needed.",
+        "Lab testing through the University of Minnesota starts at $150 per sample."
+      ]},
+      { "type": "h2", "text": "Treatment types" },
+      { "type": "list", "items": [
+        "Injection (professional equipment)",
+        "Bark spray (professional)",
+        "Soil drench (homeowner)"
+      ]},
+      { "type": "h2", "text": "Our injection approach" },
+      { "type": "list", "items": [
+        "Holes about 1/4 inch wide.",
+        "A water-based emamectin benzoate formulation.",
+        "Licensed pesticide applicators.",
+        "An internal STAT certification program.",
+        "No plugs left behind, unlike some competitors."
+      ]},
+      { "type": "image", "src": "https://static.wixstatic.com/media/e3f8ca_74bdad2ef46d405bb6ae74ff2837cff8~mv2.jpg", "alt": "Injection hole in a tree" },
+      { "type": "h2", "text": "Staying on top of your trees" },
+      { "type": "list", "items": [
+        "Reminders by email, phone, and mail.",
+        "A tag showing the next treatment date.",
+        "Photo tracking.",
+        "GPS mapping for properties with many treated trees."
+      ]},
+      { "type": "image", "src": "https://static.wixstatic.com/media/e3f8ca_7de56a8efe324d03a2ad656c4a7fefd7~mv2.jpg", "alt": "STAT tag on a tree" },
+      { "type": "buttons", "items": [
+        { "label": "Contact us", "href": "/about" }
+      ]}
+    ]
+  },
+  {
+    "path": "/blog",
+    "title": "Blog",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Blog" },
+      { "type": "notice", "text": "Post pages have not been migrated yet. The titles below are listed from the current site." },
+      { "type": "list", "items": [
+        "Sad tree? Try fertilizer spikes! (Apr 1, 2025)",
+        "Ash Tree Emerald Ash Borer: Understanding the Threat and How to Protect Your Trees (Oct 29, 2024)",
+        "Prevention over Recovery (Oct 22, 2024)",
+        "Understanding Tree Removal Costs: What to Expect and How to Save (Oct 15, 2024)",
+        "Sad Tree? Try Fertilizer Spikes for a Healthier, Happier Tree! (Oct 8, 2024)",
+        "Understanding the Stages of Emerald Ash Borer Infestation: A Threat to Your Ash Trees (Oct 2, 2024)",
+        "Tree Removal Costs (Sep 28, 2024)",
+        "Our Mission to Protect and Preserve America's Trees (Sep 21, 2024)",
+        "Apple Scab Explained: Identifying, Preventing, and Managing the Disease (Sep 14, 2024)",
+        "A Complete Guide to Pruning Your Trees for Optimal Health and Beauty (Sep 7, 2024)",
+        "Needle Cast: A Guide to Protecting Your Evergreen Trees (Aug 27, 2024)",
+        "A Guide To Pruning Your Trees (Aug 20, 2024)",
+        "Stages of EAB Infestation (Aug 10, 2024)",
+        "Ash Tree Identification (Jul 8, 2024)",
+        "Watering Your Trees (Jun 28, 2024)",
+        "Status Update - Emerald Ash Borer (Jun 28, 2024)",
+        "Save Our Street (SOS) (May 23, 2024)",
+        "Ash Trees Losing Leaves - Curled, Cupped, and Spotted (May 18, 2024)",
+        "Addressing Misconceptions About Emerald Ash Borer: Facts and Myths (May 1, 2024)",
+        "Late Night Text About Emerald Ash Borer (Apr 24, 2024)"
+      ]}
+    ]
+  },
+  {
+    "path": "/about",
+    "title": "About Us",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "About Save The Ash Tree Co." },
+      { "type": "h2", "text": "Our story" },
+      { "type": "p", "text": "Our founder lost a roughly 20-year-old ash tree to the Emerald Ash Borer. Save The Ash Tree Co. was founded to offer personal contact to neighbors, act as local ash tree experts, and protect community trees." },
+      { "type": "h2", "text": "Core values" },
+      { "type": "list", "items": ["Integrity", "Accountability", "Community", "Continuous Improvement", "Safety"] },
+      { "type": "h2", "text": "Our team" },
+      { "type": "cards", "items": [
+        { "title": "Kenny Anderson, Founder & CEO", "text": "ISA Certified Arborist (Certification # MNB-288617A)", "image": "https://static.wixstatic.com/media/e3f8ca_cda07a710bbe4fcab8c40f2316f7f460~mv2.jpg" },
+        { "title": "Amy Peterson, Office Manager", "image": "https://static.wixstatic.com/media/e3f8ca_8f23118bf4504f4a90f155a8947446f1~mv2.jpg" },
+        { "title": "Kelly \"The Arborist\", Science Advisor & Chief Spokesman", "image": "https://static.wixstatic.com/media/e3f8ca_ec97f138c59b4e4aa140f463141bd184~mv2.png" }
+      ]},
+      { "type": "h2", "text": "Contact us" },
+      { "type": "p", "text": "Ready to protect your tree? Contact us!" },
+      { "type": "list", "items": [
+        { "label": "Call 1-855-855-STAT", "href": "tel:+18558557828" },
+        { "label": "info@savetheashtree.com", "href": "mailto:info@savetheashtree.com" },
+        "7600 Boone Ave, Ste 29, Brooklyn Park, MN 55428"
+      ]},
+      { "type": "h2", "text": "Insta-Quote" },
+      { "type": "p", "text": "Fill out the form below to get a quote within just a few minutes." },
+      { "type": "form", "form": "quote" }
+    ]
+  },
+  {
+    "path": "/about-5",
+    "title": "Hiring",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Welcome!" },
+      { "type": "p", "text": "We focus only on treating trees to save them. We do not do pruning or removals. The work is outdoors and part of a team. Applicants should love trees, appreciate the shade they provide, and want to help save them." },
+      { "type": "h2", "text": "Join Our Tree Hugger Team" },
+      { "type": "h2", "text": "Open positions" },
+      { "type": "cards", "items": [
+        { "title": "Urban Forestry Intern", "text": "Summer internship, June to September.", "href": "/summer-internship" },
+        { "title": "Seasonal Tree Injector", "text": "Details coming soon. Apply below." },
+        { "title": "Summer Office Assistant", "text": "Details coming soon. Apply below." }
+      ]},
+      { "type": "buttons", "items": [
+        { "label": "I'd like to complete my application", "href": "https://airtable.com/REPLACE-WITH-APPLICATION-FORM" }
+      ]},
+      { "type": "notice", "text": "Also listed on the site: Arborist Services Coordinator (see its page). The Airtable link above is a placeholder. Paste the real application URL here." }
+    ]
+  },
+  {
+    "path": "/summer-internship",
+    "title": "Urban Forestry Internship",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Urban Forestry Internship" },
+      { "type": "table", "headers": ["Detail", "Info"], "rows": [
+        ["Dates", "June to September"],
+        ["Hours", "30 to 40 hours per week"],
+        ["Location", "Company office, 7600 Boone Ave, Ste 29, Brooklyn Park, MN 55428"],
+        ["Pay", "$18 to $23 per hour, DOE"]
+      ]},
+      { "type": "h2", "text": "Duties" },
+      { "type": "list", "items": [
+        "Inspect trees for emerald ash borer, oak wilt, or Dutch elm disease.",
+        "Treat trees for insects and disease.",
+        "Root fertilize trees and shrubs.",
+        "Consult homeowners on management options for their plants.",
+        "Learn and apply proper tree injection techniques.",
+        "Treat and control invasive trees and shrubs."
+      ]},
+      { "type": "h2", "text": "Requirements" },
+      { "type": "list", "items": [
+        "Own vehicle and a valid driver's license.",
+        "Good physical condition.",
+        "Good communication skills with customers, employer, and coworkers.",
+        "Tech savvy enough to use the company's phone app.",
+        "Follows instructions and safety protocols."
+      ]},
+      { "type": "h2", "text": "Preferred candidates" },
+      { "type": "p", "text": "Undergraduate major in Plant Biology, Urban Forestry, Biology, or a similar field. Alternative experience will be considered, and no experience is necessary." },
+      { "type": "buttons", "items": [
+        { "label": "Click to apply", "href": "https://airtable.com/REPLACE-WITH-INTERNSHIP-FORM" }
+      ]}
+    ]
+  },
+  {
+    "path": "/arboristservicescoordinator",
+    "title": "Arborist Services Coordinator",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Arborist Services Coordinator" },
+      { "type": "table", "headers": ["Detail", "Info"], "rows": [
+        ["Location", "Headquarters in Brooklyn Park, MN. Many tasks can be done remotely."],
+        ["Expansion", "Texas, Nebraska, and South Dakota, with Oklahoma and Kansas being explored"],
+        ["Pay", "$18 to $23 per hour, depending on experience"],
+        ["Schedule", "Monday to Friday, seasonal from March through November (earlier start possible). Part-time to full-time, depending on lead volume."]
+      ]},
+      { "type": "h2", "text": "Duties" },
+      { "type": "list", "items": [
+        "Respond to homeowner inquiries by email and phone.",
+        "Assess tree health from submitted photos.",
+        "Follow up on leads using the company's system.",
+        "Schedule appointments and plan service routes for injection teams.",
+        "Manage client pipelines from first contact through completed service.",
+        "Keep detailed records in the CRM."
+      ]},
+      { "type": "h2", "text": "Qualifications" },
+      { "type": "list", "items": [
+        "Experience with trees, plants, horticulture, or landscaping, formal or hands-on.",
+        "Strong organization, attention to detail, and written and verbal communication.",
+        "Reliable follow-through across multiple leads.",
+        "Comfort with established processes and systems.",
+        "Proficiency with email, phone systems, and basic software.",
+        "Interest in helping homeowners and protecting trees."
+      ]},
+      { "type": "p", "text": "Training on tree health assessment and a supportive, structured environment are provided." },
+      { "type": "buttons", "items": [
+        { "label": "Click to apply", "href": "https://airtable.com/REPLACE-WITH-COORDINATOR-FORM" }
+      ]}
+    ]
+  },
+  {
+    "path": "/locations-3",
+    "title": "Locations",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Locations Served" },
+      { "type": "table", "headers": ["City", "Email"], "rows": [
+        ["Minneapolis, MN", "info@ashtreecare.com"],
+        ["Sioux Falls, SD", "sioux-falls.sd@ashtreecare.com"],
+        ["St. Cloud, MN", "st.cloud.mn@ashtreecare.com"],
+        ["Dallas, TX", "dallas.tx@ashtreecare.com"],
+        ["Marshall, MN", "marshall.mn@ashtreecare.com"],
+        ["Fort Worth, TX", "fort-worth.tx@ashtreecare.com"]
+      ]},
+      { "type": "notice", "text": "The city emails use the ashtreecare.com domain, as on the current site. Confirm whether they should move to savetheashtree.com. The city pages (/ash-tree-treatment/...) are not rebuilt yet." },
+      { "type": "buttons", "items": [
+        { "label": "Contact us", "href": "/about" }
+      ]}
+    ]
+  },
+  {
+    "path": "/event-list",
+    "title": "Events",
+    "contentStatus": "paraphrased",
+    "sections": [
+      { "type": "h1", "text": "Events" },
+      { "type": "notice", "text": "No events at the moment." }
+    ]
+  },
+  {
+    "path": "/privacy-policy",
+    "title": "Privacy Policy",
+    "contentStatus": "summary-only",
+    "sections": [
+      { "type": "h1", "text": "Privacy Policy" },
+      { "type": "notice", "text": "Legal text placeholder. Only the section headings and key points were captured. Paste the full original policy here before publishing." },
+      { "type": "list", "ordered": true, "items": [
+        "Information We Collect",
+        "How We Use Your Information",
+        "Text Messaging",
+        "Cookies and Tracking Technologies",
+        "Third-Party Services",
+        "Data Security",
+        "Your Rights",
+        "Children's Privacy",
+        "Changes to This Policy",
+        "Contact Us"
+      ]},
+      { "type": "p", "text": "We will never sell or rent your personal information to third parties. Mobile data, including opt-in status, is not shared with third parties or affiliates for marketing." },
+      { "type": "p", "text": "Contact: info@savetheashtree.com, 1-855-855-STAT, 7600 Boone Ave, Ste 29, Brooklyn Park, MN 55428." }
+    ]
+  },
+  {
+    "path": "/terms-conditions",
+    "title": "Terms & Conditions",
+    "contentStatus": "summary-only",
+    "sections": [
+      { "type": "h1", "text": "Terms & Conditions" },
+      { "type": "notice", "text": "Legal text placeholder. Only the section headings and key points were captured. Paste the full original terms here before publishing." },
+      { "type": "p", "text": "Effective June 1, 2025." },
+      { "type": "list", "ordered": true, "items": [
+        "Use of the Website",
+        "SMS Terms of Service",
+        "Intellectual Property",
+        "Disclaimer of Warranties",
+        "Limitation of Liability",
+        "Third-Party Links",
+        "Privacy Policy",
+        "Changes to These Terms",
+        "Governing Law",
+        "Contact Us"
+      ]},
+      { "type": "p", "text": "Governing law: Minnesota, United States. Contact: info@savetheashtree.com." }
+    ]
+  }
+]
